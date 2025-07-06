@@ -24,7 +24,7 @@
 If you'd like to test the functionality of this app using the repository (not the official app), you will need to get an API key from OpenAI. Once you have your key, replace "SK-YOUR-KEY-HERE" in these two files:
 * Boston > Core > Functionality > Chat > ChatHandler:14
 * Boston > Extension > Siri > Handlers:26
-
+(You will need to implement a secure way of storing your keys somewhere server-side. This is just a straightforward way to get testing done)
 
 ## Introduction
 Easily access OpenAI's advanced LLM anywhere through Siri.
